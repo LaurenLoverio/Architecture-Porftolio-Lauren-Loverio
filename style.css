@@ -1,0 +1,83 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: "Questrial", sans-serif;
+}
+.cover-page{
+  text-align: center;
+  transform: translateY(150%);
+  font-family: "Questrial", sans-serif;
+  z-index: 1000;
+  position: relative;
+}
+
+.carousel firts image{
+  height: 20%;
+  width: 50%;
+}
+
+
+#main-header{
+  font-family: "Marcellus", serif;
+  font-weight: bold;
+}
+
+.header-titles{
+  text-align: center;
+}
+
+.homenavbar{
+  background-color: #ffffff;
+  font-family: "Questrial", sans-serif;
+  font-weight: bold;
+}
+
+.navbar-brand{
+  font-family:"Marcellus", serif;
+}
+
+.top-page{
+
+}
+
+  html,
+  body {
+    position: relative;
+    height: 100%;
+  }
+
+  body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+  }
+
+  .swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+body {
+  background: #f7f7f7;
+}
+
+</style>
